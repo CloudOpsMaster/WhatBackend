@@ -8,9 +8,9 @@
 log*.txt
 
 # .env files
-.env
-.env_*
-.env__*
+# .env
+#.env_*
+# .env__*
 
 # User-specific files
 *.rsuser
